@@ -11,3 +11,4 @@ https://github.com/kazumakumagai/rsys2.git　インストール
 ターミナル２でrosrun mypkg one.py  
 ターミナル３でrosrun mypkg two.py
 ## 動画
+https://youtu.be/GvtlCdzbuIc
