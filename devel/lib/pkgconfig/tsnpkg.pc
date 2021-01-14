@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/rsys2/devel
+
+Name: tsnpkg
+Description: Description of tsnpkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
